@@ -13,3 +13,4 @@ jobs:
         with:
           # Possible values: "critical", "high", "moderate", "low" 
           fail-on-severity: high
+
